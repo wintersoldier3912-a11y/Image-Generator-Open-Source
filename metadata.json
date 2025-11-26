@@ -1,0 +1,5 @@
+{
+  "name": "text2image-open-web",
+  "description": "A high-performance React web interface for text-to-image generation, featuring style presets, history management, and detailed metadata tracking, powered by Gemini.",
+  "requestFramePermissions": []
+}
